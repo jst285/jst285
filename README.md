@@ -1,0 +1,6 @@
+-  Hi! My name is Jorge Trujillo
+-  I’m currently a student at the University of Kansas pursing a Computer Science degree.
+-  I have experience with many programming languages including, Python, C++, SQL, and Java
+-  I have taken many courses with subjects including, data structures, algorithms, embedded systems, and mobile secuirty.
+-  How to reach me
+-   Email: jorge.sair00@gmail.com
